@@ -166,3 +166,7 @@ curl -X POST http://localhost:5000/signin \
 - Add JWT-based authentication
 - Add password reset support
 - Add form validation enhancements
+
+# Secure-Authentication-System
+
+Block 7.02 Workshop
